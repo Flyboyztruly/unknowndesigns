@@ -1,10 +1,1 @@
-{
-  "version": "1.0.0",
-  "notes": "Initial Release",
-  "changelog": [
-    "Secure database locking",
-    "Framework auto detection",
-    "Tebex support ready"
-  ]
-}
-
+{"version":"1.0.0", "notes":"Fix: full released"}
